@@ -1,0 +1,56 @@
+body {
+     font-family: sans-serif;
+}
+header b{
+font-size:30px;
+color:red;
+
+}
+header a{
+color:#2fda79;
+
+border-radius: 5px;
+border:2px solid red;
+padding:5px;
+font-size:20px;
+text-decoration: none;
+}
+header{
+background-color: #2e618b;
+padding:20px;
+}
+h1{
+color:mediumpurple;
+border:2px solid red;
+border-radius: 15px;
+text-align: center;
+}
+footer{
+background-color:lightskyblue;
+padding:5px;
+}
+footer p{
+background-color:white;
+padding:2px;
+}
+nav a{
+text-decoration:none;
+border:2px solid lightskyblue;
+background-color:blue;
+color:white;
+border-radius:15px;
+padding:5px;
+}
+nav{
+margin:10px;
+}
+.alex{
+background-color: #2fda79;
+padding:5px;
+}
+.alaana{
+border:2px solid lightgreen;
+border-radius:15px;
+text-decoration: none;
+padding:5px;
+}
